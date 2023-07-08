@@ -788,7 +788,7 @@
 ||app.sm-club.me^
 ||app.smclub.me^
 ||app.st-club.live^
-|| app.st-officia.sbs^
+||app.st-officia.sbs^
 ||app.st-official.art^
 ||app.st-official.bio^
 ||app.st-official.biz^
@@ -2938,7 +2938,7 @@
 ||client.investro.fm^
 ||client.investunionltd.com^
 ||client.iot23412.com^
-|| client.ironmax.group^
+||client.ironmax.group^
 ||client.ironmaxgroup.com^
 ||client.itp-gq.org^
 ||client.joytrust.net^
@@ -5176,7 +5176,8 @@
 ||fxcityindex.com^
 ||fxcloudvest.com^
 ||fxclub.org^
-||fxclubaffiliates.com (libertex-affiliates.com)^
+||fxclubaffiliates.com^
+||libertex-affiliates.com^
 ||fxcm-globe.com^
 ||fxcmglobe.com^
 ||fxcoins.org^
@@ -5748,7 +5749,7 @@
 ||goldneva.ru^
 ||goldstrade.com^
 ||goldy-cash.com^
-|| gold_garant^
+||gold_garant^
 ||golf-club.one^
 ||golf-club.quest^
 ||golonix.cc^
@@ -6573,7 +6574,7 @@
 ||iron-group.pw^
 ||iron-mine.pw^
 ||ironmatrix.ru^
-|| ironmax.group^
+||ironmax.group^
 ||ironmaxgroup.com^
 ||irwex.site^
 ||isdaltd.com^
@@ -7193,8 +7194,8 @@
 ||living-plus.ltd^
 ||livingplus.finance^
 ||lizingtechnologies.ru^
-|| lk-pfinance.ru^
-|| lk-pfinance.ru^
+||lk-pfinance.ru^
+||lk-pfinance.ru^
 ||lk.airon.me^
 ||lk.avalon-1.ltd^
 ||lk.avalon.company^
@@ -7393,8 +7394,8 @@
 ||luxbit.site^
 ||luxinvest.org^
 ||luxion.pw^
-||luxis-trade cc^
-||luxis-trade io^
+||luxis-trade.cc^
+||luxis-trade.io^
 ||luxistrade.cc^
 ||luxistrade.io^
 ||luxury-cars-israel.com^
@@ -9233,7 +9234,7 @@
 ||optimalvar.ru^
 ||optimarket.group^
 ||optimarket.сo^
-||optimarket cc^
+||optimarket.cc^
 ||optimizefunds.co^
 ||optionfx.pro^
 ||optionhot.net^
@@ -11489,7 +11490,7 @@
 ||sirius.best^
 ||siriusbiz.net^
 ||siriusfn.com^
-|| site.forex4you.ru.com^
+||site.forex4you.ru.com^
 ||site.kobura.store^
 ||site.rocketon.pw^
 ||site0329.amarkets.group^
@@ -12141,7 +12142,7 @@
 ||systemct.com^
 ||szr.avto-pobeda63.ru^
 ||t-ag.org^
-|| t-banque.org^
+||t-banque.org^
 ||t-boom.fun^
 ||t-boom.life^
 ||t-boom.site^
@@ -15454,7 +15455,7 @@
 ||vk.com/club190470488
 ||vk.com/club190745321
 ||vk.com/club191528448
-|| vk.com/club191528448
+||vk.com/club191528448
 ||vk.com/club191675615
 ||vk.com/club191704618
 ||vk.com/club191854361
@@ -16799,7 +16800,7 @@
 ||vk.com/tradersclubinfo
 ||vk.com/traders_home
 ||vk.com/trinity_matrix
-|| vk.com/trixgg_pub
+||vk.com/trixgg_pub
 ||vk.com/trix_gold
 ||vk.com/troubleinvest
 ||vk.com/trustcredit
@@ -17657,7 +17658,7 @@
 ||www.appletrade.co^
 ||www.arbittroom.pro^
 ||www.arcnet.group^
-|| www.ardma.net^
+||www.ardma.net^
 ||www.arteljuwell.com^
 ||www.artery-testnetwork.com^
 ||www.artery-work.com^
@@ -18007,7 +18008,7 @@
 ||www.erdacorp.com^
 ||www.esperio.org/ru
 ||www.esplanade-ms.com^
-|| www.esplanade-ms.ru^
+||www.esplanade-ms.ru^
 ||www.essential-globalinvest.com^
 ||www.etfcorp.com^
 ||www.ether-arena.com^
@@ -19066,7 +19067,7 @@
 ||www0907.a-markets.org^
 ||www1.alpari-rus.com^
 ||www1.alparigroup.com^
-|| www1.directatrading.com^
+||www1.directatrading.com^
 ||www1.zurichtradefinco.com^
 ||www2.24bopt.com^
 ||www2.alpari-rus.com^
