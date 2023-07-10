@@ -1,6 +1,7 @@
 ! Title: Suspicious sites and web pages companies of Russia
 ! Description: Filters of suspicious companies recognized by the Bank of Russia.
 ! Expires: 1 day
+! Homepage: https://github.com/PrographerMan/cbr-ublock-rules 
 ! Last modified: 7/10/2023
 
 ||3mels.com^
