@@ -1,5 +1,3 @@
-
-
 const http = require('https');
 const fs = require('fs');
 const xlsx = require('node-xlsx');
@@ -9,12 +7,13 @@ const fileHeader =
 '! Title: Suspicious sites and web pages companies of Russia\n' +
 '! Description: Filters of suspicious companies recognized by the Bank of Russia.\n' +
 '! Expires: 1 day\n' +
+'! Homepage: https://github.com/PrographerMan/cbr-ublock-rules\n' +
 '! Last modified: ' + currentDate.toLocaleDateString('en-US').toString() + '\n\n';
 const currentYear = currentDate.getFullYear();
 const currentMonth = currentDate.getMonth() + 1;
 const currentDay = currentDate.getDate();
 const dateAsParameter = `${currentMonth}/${currentDay}/${currentYear}`;
-const outputFileName = 'file.xlsx';
+const outputXSLXFileName = 'file.xlsx';
 const outputRulesFileName = 'filters.txt';
 const searchParams = [
   {
@@ -35,7 +34,7 @@ searchParams.forEach((param) => {
   downloadableFileURL.searchParams.append(param.name, param.value);
 });
 const readyUrl = downloadableFileURL.toString();
-const file = fs.createWriteStream(outputFileName);
+const file = fs.createWriteStream(outputXSLXFileName);
 
 class BlockRule {
   static addressBeginning = '||';
@@ -65,12 +64,17 @@ class BlockRule {
     }
     
     this.verbatim = address.hostname;
+    this.searchParams = new URLSearchParams();
+    Object.assign(this.searchParams, address.searchParams)
   }
 
   toString() {
     const separator = this.hasSeparator ? BlockRule.separator : '';
     const pathname = this.pathname ? this.pathname : '';
-    return `${BlockRule.addressBeginning}${this.verbatim}${separator}${pathname}`;
+    const hasParams = this.searchParams?.toString().length > 0;
+    const searchParams = hasParams ? `?${this.searchParams.toString()}` : '';
+
+    return `${BlockRule.addressBeginning}${this.verbatim}${pathname}${searchParams}${separator}`;
   }
 }
 
@@ -94,8 +98,8 @@ http.get(readyUrl, function (response) {
         continue;
       };
 
-      let newRules = cellValue.split(',').map((rule) => {
-        return new BlockRule(rule.trim());
+      let newRules = cellValue.split(',').map((url) => {
+        return new BlockRule(url.trim());
       });
 
       rules = rules.concat(newRules);
