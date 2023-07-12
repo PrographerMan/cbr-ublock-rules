@@ -72,7 +72,10 @@ class BlockRule {
     Object.assign(this.searchParams, address.searchParams);
 
     Object.keys(BlockRule.metricParams).forEach((key) => {
-      if (this.searchParams.has(key) && BlockRule.metricParams[key].includes(address.hostname)) {
+      const searchParamsHasMetrics = this.searchParams.has(key);
+      const currentHostnameHasMetricKey = BlockRule.metricParams[key].includes(address.hostname);
+
+      if (searchParamsHasMetrics && currentHostnameHasMetricKey) {
         this.searchParams.delete(key);
       }
     });
