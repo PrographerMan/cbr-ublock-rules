@@ -40,6 +40,7 @@ class BlockRule {
   static addressBeginning = '||';
   static separator = '^';
   static defaultProtocol = 'https://';
+  static pageBlockModifier = '$document';
 
   constructor(url) {
     if (!url) return;
@@ -61,6 +62,7 @@ class BlockRule {
     if (address.pathname !== '/') {
       this.pathname = address.pathname;
       this.hasSeparator = false;
+      this.blockPage = true;
     }
     
     this.verbatim = address.hostname;
@@ -73,8 +75,9 @@ class BlockRule {
     const pathname = this.pathname ? this.pathname : '';
     const hasParams = this.searchParams?.toString().length > 0;
     const searchParams = hasParams ? `?${this.searchParams.toString()}` : '';
+    const blockPage = this.blockPage ? BlockRule.pageBlockModifier : '';
 
-    return `${BlockRule.addressBeginning}${this.verbatim}${pathname}${searchParams}${separator}`;
+    return `${BlockRule.addressBeginning}${this.verbatim}${pathname}${searchParams}${separator}${blockPage}`;
   }
 }
 
