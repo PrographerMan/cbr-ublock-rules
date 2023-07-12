@@ -41,7 +41,9 @@ class BlockRule {
   static defaultProtocol = 'https://';
   static pageBlockModifier = '$document';
   static metricParams = {
-    src: ['www.avito.ru']
+    src: ['www.avito.ru'],
+    igshid: ['instagram.com'],
+    from: ['vk.com']
   }
 
   constructor(url) {

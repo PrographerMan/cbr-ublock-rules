@@ -17450,7 +17450,7 @@
 ||auto-zalog24.ru^
 ||ok.ru/group/63091739525169$document
 ||vk.com/autozalog_24$document
-||instagram.com/evrostarlizing?igshid=pzeabje7iic2$document
+||instagram.com/evrostarlizing$document
 ||juvelirnyj-lombard.ru^
 ||arendaavto-avtovykup-avtolombard.ru^
 ||vk.com/club14256713$document
@@ -19421,7 +19421,7 @@
 ||lombardmiass.ru^
 ||taxi515.ru^
 ||taxi515lp.ru/invest$document
-||vk.com/torgi_na_divane?from=quick_search$document
+||vk.com/torgi_na_divane$document
 ||xn----7sbbmqcmtfy.xn--80adxhks^
 ||vl.kreditfin.ru^
 ||uk-optima.ru^
@@ -19586,7 +19586,7 @@
 ||vk.com/sotline174$document
 ||vk.com/sotline74$document
 ||tehnoskupka.ru^
-||vk.com/torgi_na_divane?from=quick_search$document
+||vk.com/torgi_na_divane$document
 ||daemvdolg.ru^
 ||xn------7cdbapdeci2aef1bn0aohfo6zsa.xn--p1ai^
 ||zalogoviy-dom.ru^
