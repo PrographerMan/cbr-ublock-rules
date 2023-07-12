@@ -1,7 +1,6 @@
 const http = require('https');
 const fs = require('fs');
 const xlsx = require('node-xlsx');
-
 const currentDate = new Date();
 const fileHeader =
 '! Title: Suspicious sites and web pages companies of Russia\n' +
@@ -41,6 +40,9 @@ class BlockRule {
   static separator = '^';
   static defaultProtocol = 'https://';
   static pageBlockModifier = '$document';
+  static metricParams = {
+    src: ['www.avito.ru']
+  }
 
   constructor(url) {
     if (!url) return;
@@ -67,7 +69,13 @@ class BlockRule {
     
     this.verbatim = address.hostname;
     this.searchParams = new URLSearchParams();
-    Object.assign(this.searchParams, address.searchParams)
+    Object.assign(this.searchParams, address.searchParams);
+
+    Object.keys(BlockRule.metricParams).forEach((key) => {
+      if (this.searchParams.has(key) && BlockRule.metricParams[key].includes(address.hostname)) {
+        this.searchParams.delete(key);
+      }
+    });
   }
 
   toString() {
