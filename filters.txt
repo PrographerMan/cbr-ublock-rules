@@ -2,8 +2,127 @@
 ! Description: Filters of suspicious companies recognized by the Bank of Russia.
 ! Expires: 1 day
 ! Homepage: https://github.com/PrographerMan/cbr-ublock-rules
-! Last modified: 7/12/2023
+! Last modified: 7/18/2023
 
+||bitbeads.cc^
+||www.cctymedia.com/h5/$document
+||t.me/+UDizgt7dF89mNmNh$document
+||de-fi.trade^
+||t.me/defi_trade_chat$document
+||oscar-invest.pro^
+||topazmoney.com^
+||t.me/+rQksGDduS782MGRl$document
+||trondex.pro^
+||vipfinace.homes^
+||www.vipfinace.homes^
+||che-avtolombard.ru^
+||vk.com/club193042587$document
+||vk.com/id587555619$document
+||healsick.space^
+||acrex.ltd^
+||aleofund.com^
+||bstcomtervi.com^
+||best-comtervi.cc^
+||eteric-power.com^
+||globaxweb.com^
+||t.me/globaxweb$document
+||vk.com/id209032117$document
+||globaxweb.isupova.tilda.ws^
+||invekko.cc^
+||t.me/invekko$document
+||koinkeeper.icu^
+||www.koinkeeper.icu^
+||mcpepe.cc^
+||minebnb.pro^
+||t.me/MineBNB_News$document
+||t.me/MineBNBChannel$document
+||payran.fun^
+||rocketcapital.cfd^
+||tradepace.net^
+||trade.tradepace.net^
+||usdtincome.org^
+||t.me/ANONYMOUS_ADMIN_CHANNEL$document
+||withdraw-money.top^
+||www.withdraw-money.top^
+||wozudollar.online^
+||zaimpz.ru^
+||freesword.skin^
+||intergame.pro^
+||vk.com/club221453545$document
+||t.me/chatintergame$document
+||f.joomparse.u-host.in^
+||buckstron.com^
+||t.me/+9Sav5yiBBHoxYzQ1$document
+||fobos.fun^
+||marobit.top^
+||maxgrowth-fx.com^
+||mtventures.net^
+||ca.mtventures.net^
+||platform.mtventures.net^
+||olipurainc.com^
+||olipu-rainc.org^
+||supertron.tech^
+||trademax.pro^
+||traforef.ru^
+||vertexcoin.cc^
+||t.me/vertexcoin_official_chat$document
+||wipcapital24.com^
+||vk.com/public215712936$document
+||evrodomnn.ru^
+||ametist-lombard.ru^
+||www.ametist-lombard.ru^
+||timezaim.ru^
+||www.timezaim.ru^
+||xn--80aaemknsd4a6m.xn--p1ai^
+||www.xn--80aaemknsd4a6m.xn--p1ai^
+||galaaigra.ru^
+||vk.com/club150644899$document
+||vk.com/id364554403$document
+||galaigra.usite.pro^
+||vk.com/id286571093$document
+||biznesgame.pro^
+||chkelin.store^
+||www.chkelin.store^
+||jaravoyna.site^
+||boot-hourly.one^
+||brainbit.pro^
+||t.me/brainbit_pro$document
+||crypto-generator.site^
+||t.me/generator_crypto$document
+||crypt-on.app^
+||t.me/cryptonauthBOT$document
+||vk.com/club212656887$document
+||t.me/crypt_on_news$document
+||t.me/viplaty_crypton$document
+||dilicious.top^
+||www.dilicious.top^
+||dreamprofit.online^
+||gastrade.company^
+||gastrade.co^
+||term.gastrade.vip^
+||hyip-money.com^
+||t.me/hyip_money$document
+||t.me/hyip_money_com_chat$document
+||i-11.net^
+||ivey11.net^
+||t.me/i11net$document
+||midpaccoin.net^
+||trade.midpaccoin.net^
+||saberx.io^
+||user.saberx.net^
+||wt.saberx.net^
+||t.me/binaryinvestrobot$document
+||t.me/+AN8iRSV1ZM0zODU1$document
+||t.me/binaryinvestsupport$document
+||telegra.ph/Binary-Invest--Instrukciya-07-06$document
+||vrancworld.com^
+||vranc-w.org^
+||whalesinvestment.com^
+||whalesinvestments.com^
+||vk.com/club221359924$document
+||vk.com/club197037577$document
+||www.neftmoney.biz^
+||igrainvestc.blogspot.com^
 ||btc7.biz^
 ||t.me/+jfOKX9h8gnE0ZDVl$document
 ||coin-speed.com^
@@ -33,6 +152,7 @@
 ||sports-head.online^
 ||vk.com/club220988773$document
 ||teamrs-jc.org^
+||teamrsjc.com^
 ||tronlove.one^
 ||tron.love^
 ||wgwltd.com^
@@ -55,6 +175,10 @@
 ||t.me/alny_zooms$document
 ||t.me/ALNY_market_bot$document
 ||apps.apple.com/ge/app/alny-market/id1645518900$document
+||vk.com/club221259205$document
+||t.me/alnymarketbot$document
+||vk.com/id659285099$document
+||t.me/%2BfEtP7nj9lls2Y2Uy$document
 ||fanchips.me^
 ||www.fanchips.me^
 ||t.me/FunChipsme$document
@@ -140,6 +264,7 @@
 ||cloudminerr.ru^
 ||www.cloudminerr.ru^
 ||money-trees.fun^
+||money-tree.fun^
 ||3forex.autos^
 ||48.limited^
 ||amstake.biz^
@@ -175,6 +300,8 @@
 ||doc-finance.ru^
 ||vk.com/public217418931$document
 ||vk.com/im?sel=-217418931$document
+||vk.com/public221490190$document
+||vk.com/im?sel=-221490190$document
 ||user.personal-advisers.net^
 ||wt.personal-advisers.net^
 ||money-farm.site^
@@ -208,12 +335,14 @@
 ||agencyinsurance.ru^
 ||cliviliability.ru^
 ||xn--80agaduqqcca3a5c.xn--p1ai^
+||geostrah.ru^
 ||vk.com/public221303172$document
 ||vk.com/public221076123$document
 ||super-kitty.net^
 ||t.me/supper_kitty_bot$document
 ||crypto-only.cc^
 ||crypto-only.net^
+||crypto-only.org^
 ||fast-coin.site^
 ||www.fast-coin.site^
 ||fortune-coin.fun^
@@ -319,6 +448,8 @@
 ||social-lift.pro^
 ||soclift.co^
 ||vk.com/club164342788$document
+||t.me/tatijananerabota$document
+||vk.com/id548924799$document
 ||the-lombard.ru^
 ||bonusforex.ucoz.ru^
 ||vk.com/public215339107$document
@@ -343,6 +474,9 @@
 ||t.me/+qChGjGqsu-Q4YTAy$document
 ||t.me/tradeinvestinger$document
 ||telegra.ph/Usloviya-i-pravila-investicij-s-Elenoj--Put-k-uspehu-03-08$document
+||t.me/joinchat/nN-ovAff4F5hMTFi$document
+||t.me/trading_investinger$document
+||telegra.ph/Usloviya-i-pravila-investicij--Sergej-Sitnikov--Doroga-k-uspehu-03-02$document
 ||t.me/grizzly_profitt$document
 ||t.me/Chatt_Grizzly$document
 ||trendhot.org^
@@ -352,6 +486,7 @@
 ||web-coin.pw^
 ||www.web-coin.pw^
 ||t.me/webcoiin$document
+||web-coin.fun^
 ||www.allegrotor.live^
 ||vk.com/public216552883$document
 ||vk.com/im?sel=-216552883$document
@@ -460,6 +595,9 @@
 ||safegain.life^
 ||smartadvisor.digital^
 ||srp.bio^
+||srp.quest^
+||t.me/SRP_Channel$document
+||t.me/SRP_off_Chat$document
 ||swisscard.cc^
 ||t.me/pay_mani_bot$document
 ||t.me/GeneralInvestBot$document
@@ -578,6 +716,8 @@
 ||dcprime.sbs^
 ||t.me/dcprime_sbs$document
 ||t.me/dcprime_support$document
+||www.dcprime.top^
+||dcprime.top^
 ||faststocks.net^
 ||trade.faststocks.net^
 ||www.fxeuroclub.com^
@@ -644,6 +784,7 @@
 ||vk.com/public221070915$document
 ||www.rexwallet.pro^
 ||rexwallet.pro^
+||vk.com/public220213299$document
 ||r.rolton.fun^
 ||r2.rolton.fun^
 ||rolton.fun^
@@ -748,6 +889,7 @@
 ||game-core.ru^
 ||warcraft-game.pro^
 ||bexoton.top^
+||fast-crypt.pw^
 ||biznesclub.pro^
 ||www.biznesclub.pro^
 ||carda-evolution.cc^
@@ -936,6 +1078,7 @@
 ||bbhlike.com^
 ||www.bbhlike.com^
 ||vk.com/public211525510$document
+||vk.com/public221278731$document
 ||denezhnyivopros.ru^
 ||golden-foundation.ru^
 ||fin-instrument.ru^
@@ -1104,12 +1247,14 @@
 ||fincklemoney.pw^
 ||goldcitylive.com^
 ||fnkmoney.pro^
+||fnkmoney.pw^
 ||s1.sid-money.biz^
 ||taxigame.site^
 ||thefarming.ru^
 ||vip.paper-island.net^
 ||s1.paper-island.net^
 ||s2.paper-island.net^
+||paper-island.net^
 ||alphanm.com^
 ||bornsteininvestment.com^
 ||www.bornsteininvestment.com^
@@ -1640,6 +1785,9 @@
 ||www.managu.xyz^
 ||w.managu.xyz^
 ||rallycoin.pro^
+||xn--56-6kcikgtx0ayq.xn--p1ai^
+||xn--56-jlcenr8aeet.xn--p1ai^
+||xn--90aee6admdx.xn--d1achlyecp.xn--p1ai^
 ||uniqsolution-lombard.ru^
 ||fx-kors.org^
 ||client.fx-kors.org^
@@ -2591,6 +2739,7 @@
 ||s2.pvsz.in^
 ||s3.pvsz.in^
 ||pvsz.in^
+||s1.pvsz.org^
 ||vimga.biz^
 ||www.vimga.biz^
 ||24earner.online^
@@ -2727,6 +2876,7 @@
 ||nsuyetcowpower.jrteo.online^
 ||vjiued7823bfh89q.jertigokdjedhwtn3v7uejdi.site^
 ||msjdubvybsdemhbjjy.jertigokdjedhwtn3v7uejdi.site^
+||s1-vdj83jd.tredcvgygvuihnft67uji90p.site^
 ||vk.com/public195044891$document
 ||rreewardingcoorpp.shop^
 ||avtolombard-nevsky.ru^
@@ -2846,6 +2996,8 @@
 ||gemly.us^
 ||gemly.am^
 ||gemly.im^
+||gemly.ch^
+||gemly.gay^
 ||pizzerfast.vip^
 ||t.me/PizzerFastfood$document
 ||vk.com/public218908926$document
@@ -3217,6 +3369,7 @@
 ||coin-van.com^
 ||corevisioncapitals.ltd^
 ||crypto-win.fun^
+||cryptowin.io^
 ||dailyrouble.site^
 ||vk.com/public191156101$document
 ||vk.com/club86841340$document
@@ -3604,6 +3757,7 @@
 ||housetoken.me^
 ||app.iqoptioninvestfx.com^
 ||unique-invest.top^
+||uniqueinvest.pro^
 ||vk.com/club37457021$document
 ||vk.com/club218084007$document
 ||alfa-tender.ru^
@@ -3666,6 +3820,7 @@
 ||mkctrade.com^
 ||trade.mkctrade.com^
 ||roxxon.io^
+||1.roxxon.club^
 ||wood-brook.com^
 ||user.wood-brook.com^
 ||www.wood-brook.com^
@@ -3811,6 +3966,8 @@
 ||t.me/dreammatrix24$document
 ||vk.com/id152983123$document
 ||vk.com/public158372629$document
+||t.me/tatijananerabota$document
+||vk.com/id87014872$document
 ||primeolympicpro.com^
 ||www.primeolympicpro.com^
 ||cfd.primeolympicpro.com^
@@ -3901,7 +4058,10 @@
 ||vk.com/public193228738$document
 ||funny-birds.ru^
 ||www.funny-birds.ru^
+||birds-money.pro^
 ||allseo.app^
+||all-seo.app^
+||t.me/allseoapp$document
 ||art300.art^
 ||avrora-token.com^
 ||www.avrora-token.com^
@@ -3958,6 +4118,7 @@
 ||angrybirds.cc^
 ||www.angrybirds.cc^
 ||s1.bird-money.biz^
+||angrybirds.top^
 ||ceneles.vip^
 ||t.me/ceneleschat$document
 ||chip-and-dale.me^
@@ -4085,6 +4246,7 @@
 ||vk.com/public49021818$document
 ||jungle-money.biz^
 ||money-dragon.biz^
+||s1.money-dragon.org^
 ||shrek-money.biz^
 ||s1.shrek-money.cc^
 ||top-olympus.site^
@@ -4327,6 +4489,8 @@
 ||s5.super-birds.pro^
 ||s6.super-birds.pro^
 ||s1.super-birds.co^
+||super-birds.co^
+||super-birds.net^
 ||21stfinance.net^
 ||21stfinance.com^
 ||trade.21stfinance.net^
@@ -4645,6 +4809,8 @@
 ||web.trader-room.me^
 ||wdex.pro^
 ||client.trader-room.me^
+||web.worldex.global^
+||wdex.ltd^
 ||chasovaya-manufactura.ru^
 ||vk.com/club89320136$document
 ||getykt.vsite.biz^
@@ -4869,7 +5035,9 @@
 ||www.angry-money.biz^
 ||angry-money.cc^
 ||www.angry-money.cc^
+||angry-money.top^
 ||dinofarm.biz^
+||s1.dinofarm.cc^
 ||fruitserf.fun^
 ||money-tour.ru^
 ||m-games.ru^
@@ -5243,6 +5411,7 @@
 ||www.dragon-money.org^
 ||money-cosmo.biz^
 ||richmonkey.ru^
+||richmonkey.me^
 ||exlumia.ru^
 ||vk.com/club216677635$document
 ||seinapexltd.com^
@@ -5349,6 +5518,8 @@
 ||www.brixtraders.io^
 ||t.me/brixtraders_ru$document
 ||t.me/+FIYSN1gFYyljNTg6$document
+||brixtraders.co^
+||www.brixtraders.co^
 ||epic-money.space^
 ||hempcrypto.com^
 ||trade.hempcrypto.org^
@@ -5576,6 +5747,7 @@
 ||taximania.cc^
 ||taximania.online^
 ||taximania.us^
+||taximania.click^
 ||may-gay.site^
 ||vipmonikgame.site^
 ||playbetx.ru^
@@ -5589,6 +5761,7 @@
 ||gameauto.ru^
 ||pirate-game.ru^
 ||vk.com/public192986208$document
+||sunduchokpirata.ru^
 ||busdepot-game.com^
 ||binotrader.com^
 ||binotrader.net^
@@ -5684,6 +5857,7 @@
 ||glsinvest.ru^
 ||vk.com/club134076927$document
 ||t.me/glsinvest$document
+||gls-invest.ru^
 ||shrek-game.online^
 ||starwars-game.space^
 ||cash-robots.biz^
@@ -5715,6 +5889,9 @@
 ||t.me/Binance_Crypto_Bot_Futures$document
 ||t.me/MoonTrader2020$document
 ||t.me/Option_bot_Ultimatum$document
+||amega-bot.biz^
+||t.me/+VNfEmWdbEQV-pDkS$document
+||t.me/amega_help_bot$document
 ||ifp-trading.com^
 ||trade.ifp-trading.com^
 ||ifp-trading-ltd.com^
@@ -5740,6 +5917,7 @@
 ||rubberi.ru^
 ||www.xn----7sbbf1aekdx7i.xn--p1ai^
 ||football-money.org^
+||football-money.cc^
 ||www.apex-cryptofx.com^
 ||apex-cryptofx.com^
 ||fast-profit.fun^
@@ -5802,6 +5980,7 @@
 ||light-trading.maximarkets.gg^
 ||maximarkets.sbs^
 ||light-trading.maximarkets.sbs^
+||maximarkets.site^
 ||mining-nft.fun^
 ||spacecoin24.cc^
 ||t.me/spacecoin24cc$document
@@ -6449,6 +6628,8 @@
 ||trade.spmfinance.net^
 ||spmfinance.co^
 ||trade.spmfinance.co^
+||spmfinance.org^
+||trade.spmfinance.org^
 ||starsventures.com^
 ||ca.starsventures.com^
 ||tri-bogatyrya.su^
@@ -7997,6 +8178,10 @@
 ||doverie.pro^
 ||vk.com/club197768544$document
 ||t.me/+FNuQgcHrsVQ4MTZi$document
+||doverie.one^
+||t.me/+HZ3gywU6rgoxZjgy$document
+||vk.com/id297526085$document
+||vk.com/id484225550$document
 ||kazmunaytrade.com^
 ||user.kazmunaytrade.link^
 ||trade.kazmunaytrade.link^
@@ -8387,6 +8572,8 @@
 ||drgn1q.casino^
 ||drgn1u.casino^
 ||drgn1x.casino^
+||drgn2q.casino^
+||drgn2r.casino^
 ||forest-brothers.biz^
 ||www.forest-brothers.biz^
 ||frooti-cash.club^
@@ -8918,6 +9105,7 @@
 ||vk.com/avtozaimdv$document
 ||avto-treys.fun^
 ||avtotreys.site^
+||avtomani.site^
 ||dachagame.biz^
 ||vk.com/club194279455$document
 ||life-master.site^
@@ -9056,6 +9244,8 @@
 ||g2.goldentea.co^
 ||work.golden-tea.in^
 ||g3.goldentea.co^
+||like.golden-tea.in^
+||golden-tea.in^
 ||wca.digital^
 ||testnet.wca.digital^
 ||mirror.wca.digital^
@@ -10536,6 +10726,8 @@
 ||anex-finance.com^
 ||anex-finance.org^
 ||anex-finance.net^
+||anex-finance.pro^
+||www.anex-finance.pro^
 ||ok.ru/group/56062267162867$document
 ||nocnyegonki.ru^
 ||nocnye-gonki.ru^
@@ -10993,6 +11185,8 @@
 ||kolxoz.xyz^
 ||kolxoz.site^
 ||s1.kolhoz.live^
+||kolhoz.live^
+||kolhoz.cc^
 ||u-investservice.com^
 ||8days.top^
 ||5976iot.com^
@@ -11112,6 +11306,8 @@
 ||golden-birds.mobi^
 ||goldenbirds.club^
 ||gbirds.co^
+||ok.goldenbirds.mobi^
+||goldenbirds.mobi^
 ||albireo.su^
 ||bitinvest.cash^
 ||www.bitinvest.cash^
@@ -11373,6 +11569,7 @@
 ||topbirds-etalon.site^
 ||gladiators-etalon.space^
 ||azgard-etalon.site^
+||dragonlords-mini-etalon.site^
 ||24fxoddpro.com^
 ||arcoins.site^
 ||aspireinvestments.ltd^
@@ -12849,6 +13046,8 @@
 ||squid-money.biz^
 ||squid-game.money^
 ||web.squid-game.biz^
+||squid-money.ru^
+||www.squid-money.ru^
 ||afgroup.pro^
 ||af-group.pro^
 ||www.af-group.pro^
@@ -13302,6 +13501,8 @@
 ||goldenmines.in^
 ||usd-gnomes.net^
 ||hero.golden-mines.mobi^
+||goldenmines.life^
+||golden-mines.life^
 ||alliance-trading.net^
 ||arumtrade.com^
 ||lobby.arumtrade.com^
@@ -14054,6 +14255,7 @@
 ||millioner-hot.ru^
 ||millioner-drop.ru^
 ||millioner-lock.ru^
+||millioner-pro.ru^
 ||mitradeinvest.com^
 ||novoideal.com^
 ||trade.novoideal.com^
@@ -14749,6 +14951,7 @@
 ||freedom-life.club^
 ||freedom-life.co^
 ||fruit-farm.cc^
+||fruit-farm.top^
 ||www.gdcinvestment.com^
 ||gdc-invest.net^
 ||gdc-group.org^
@@ -15212,6 +15415,10 @@
 ||client.ecnbroker.gdn^
 ||trd.ecnbroker.gdn^
 ||www.ecnbroker.gdn^
+||ecn-broker.casa^
+||client.ecn-broker.casa^
+||trd.ecn-broker.casa^
+||www.ecn-broker.casa^
 ||ekolfx128.com^
 ||cp.frxcrm.com^
 ||ekolfx131.com^
@@ -15442,6 +15649,7 @@
 ||po3.capital^
 ||potrade.ru^
 ||po4.capital^
+||pocket-link.co^
 ||pride-trade.com^
 ||client.pride-trade.com^
 ||www.pride-trade.com^
@@ -15827,6 +16035,7 @@
 ||f528.express-wallet.com^
 ||expresswallet.biz^
 ||0c75.express-wallet.pro^
+||express-wallet.pro^
 ||fabius.limited^
 ||freedomfinance.fund^
 ||future-x.trade^
@@ -17170,6 +17379,7 @@
 ||magiclime.academy^
 ||sso.magiclime.academy^
 ||app.magiclime.academy^
+||magiclime.online^
 ||magnatdo.com^
 ||finrally.com^
 ||www.finrally.com^
@@ -17830,6 +18040,7 @@
 ||avalon.ws^
 ||avalon-online.ru^
 ||vip.avalon.online^
+||avalon.online^
 ||avexcapital.com^
 ||avtozalog.ru^
 ||axecapital.systems^
@@ -19023,6 +19234,7 @@
 ||web-coin.app^
 ||web-coin.club^
 ||web-coin.live^
+||web-coin.plus^
 ||webtokenprofit.com^
 ||coin-galaxy.com^
 ||webtokenprofit.io^
@@ -19734,6 +19946,7 @@
 ||junglegame.live^
 ||junglegame.life^
 ||astellia.life^
+||7-gnomes.live^
 ||money-owls.org^
 ||money-gnomes.ru^
 ||moneyowls.org^
