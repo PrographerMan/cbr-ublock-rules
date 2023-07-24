@@ -42,6 +42,9 @@ class BlockRule {
   static pageBlockModifier = '$document';
   static metricParams = {
     src: ['www.avito.ru'],
+    utm_campaign: ['www.avito.ru'],
+    utm_medium: ['www.avito.ru'],
+    utm_source: ['www.avito.ru'],
     igshid: ['instagram.com'],
     from: ['vk.com']
   }
