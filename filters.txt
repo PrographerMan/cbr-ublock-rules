@@ -2,8 +2,43 @@
 ! Description: Filters of suspicious companies recognized by the Bank of Russia.
 ! Expires: 1 day
 ! Homepage: https://github.com/PrographerMan/cbr-ublock-rules
-! Last modified: 7/24/2023
+! Last modified: 7/25/2023
 
+||cryptofxbinary.net^
+||cryptopony.cc^
+||t.me/cryptoponny$document
+||doubler-trx.site^
+||t.me/+7qXEezUw39U3MGQ8$document
+||elbrus23.site^
+||finoviq.biz^
+||t.me/finoviq_group$document
+||t.me/finoviq_support$document
+||forex-up.com^
+||goldyoung.biz^
+||t.me/+nofQ4_3Hv7BmY2Ji$document
+||t.me/+aSZB8cxg5UgyMmUy$document
+||t.me/Gold_Y_admin$document
+||t.me/MervinSullivanOfficial$document
+||lamdatrade.com^
+||light-trading.lamdatrade.com^
+||skyatlas.global^
+||t.me/sky_atlas$document
+||t.me/SmartWallet_robot$document
+||t.me/sw_techsupport$document
+||telegra.ph/FAQ-07-16-7$document
+||telegra.ph/Nashi-usloviya-06-07$document
+||telegra.ph/Partnerskaya-programma-Smart-Wallet-06-08$document
+||telegra.ph/Kak-ustroen-Smart-Wallet-06-07$document
+||tf2x.ltd^
+||t.me/+J-FDbNMTMTBiNTEy$document
+||threeinone.fun^
+||www.threeinone.fun^
+||t.me/threeinone1$document
+||tiaglin.com^
+||zettron.com^
+||ranchcoin.cc^
+||t.me/RanchCoinChat$document
+||xpoloton.online^
 ||blrwsf.com^
 ||blrw-sf.org^
 ||crafterprofit.online^
@@ -2965,6 +3000,7 @@
 ||r2.rich-hens.cfd^
 ||rich-hens.cfd^
 ||r1.rich-hens.one^
+||rich-hens.one^
 ||agixcapital.com^
 ||trade.agixcapital.com^
 ||agixcapital.co^
@@ -5639,6 +5675,7 @@
 ||chickens-farm.co^
 ||chickens-for-money.biz^
 ||money.chikens-for-money.org^
+||chickens-farm.info^
 ||it-office.co^
 ||kombats.biz^
 ||my-farm.pro^
@@ -6020,6 +6057,7 @@
 ||vk.com/club134076927$document
 ||t.me/glsinvest$document
 ||gls-invest.ru^
+||gls-invest.vsite.biz^
 ||shrek-game.online^
 ||starwars-game.space^
 ||cash-robots.biz^
@@ -7965,6 +8003,7 @@
 ||richbirds.pro^
 ||s1.rich-birds.biz^
 ||go.rich-birds.biz^
+||rich-birds.biz^
 ||sponge-bob.me^
 ||www.sponge-bob.me^
 ||sponge-bob.scooby-doo.me^
@@ -15365,6 +15404,9 @@
 ||paradtrade.info^
 ||paradcab.com^
 ||web.clientplatform.trade^
+||paradtrade.org^
+||cabinet.paradtrade.org^
+||web.clientplatform.online^
 ||platinumhitech.com^
 ||pmtrade.com^
 ||refundmaking.com^
