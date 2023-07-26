@@ -2,8 +2,78 @@
 ! Description: Filters of suspicious companies recognized by the Bank of Russia.
 ! Expires: 1 day
 ! Homepage: https://github.com/PrographerMan/cbr-ublock-rules
-! Last modified: 7/25/2023
+! Last modified: 7/26/2023
 
+||chalco-invest.com^
+||crystal-mining.top^
+||goldenbit.one^
+||haxton.store^
+||www.haxton.store^
+||lcmfx.com^
+||www.lcmfx.com^
+||lcmtrade.com^
+||www.lcmtrade.com^
+||secure.lcmtrade.com^
+||nftigrysvivodom.ru^
+||rennygold.com^
+||t.me/+vn_aiIY1w0o0NzVl$document
+||trading.biz^
+||www.trading.biz^
+||trx-6.com^
+||t.me/+RbtvLQIw5cY3YjM1$document
+||t.me/+0P3ZkFOSGG9jMzM1$document
+||vk.com/club221524630$document
+||vk.com/im?sel=-221524630$document
+||xn--b1adeadlc3bdjl.com/zarabotok-v-internete-earn-money$document
+||lombardtut.ru^
+||www.lombardtut.ru^
+||vk.com/public221160225$document
+||t.me/chastnizaim$document
+||xn----8sbjbqzqfc.xn--p1acf^
+||nftedit.space^
+||zenfarm.biz^
+||1fx.online^
+||aeroquest.cc^
+||www.apexcryptofx.com^
+||asicapp.com^
+||t.me/asec_app$document
+||autofund.beauty^
+||bitbits.cc^
+||t.me/BitBits_chat$document
+||t.me/BitBits_Official$document
+||botcoinexo.biz^
+||bulltrade.sbs^
+||criptoner.fun^
+||crypto-box.asia^
+||dashlite.pro^
+||t.me/dashllite$document
+||double.legal^
+||www.double.legal^
+||fortunefx.info^
+||client.fortunefx.info^
+||io-space.com^
+||www.io-space.com^
+||iqmonitoring.su^
+||liveweb.fun^
+||www.liveweb.fun^
+||oldtraders.biz^
+||swaiafx.com^
+||www.swaiafx.com^
+||t.me/money_watch20_bot$document
+||t.me/stata_money_watch$document
+||t.me/money_watch_otzyvy$document
+||t.me/chat_money_watch$document
+||trust-option.ru^
+||usdtscan.com^
+||cryptoscans.com^
+||t.me/usdtscan$document
+||usdtscan.org^
+||xrphour.xyz^
+||www.xrphour.xyz^
+||vk.com/club59892239$document
+||axie.rest^
+||t.me/axie_abot$document
+||axie.ink^
 ||cryptofxbinary.net^
 ||cryptopony.cc^
 ||t.me/cryptoponny$document
@@ -186,6 +256,7 @@
 ||t.me/globaxweb$document
 ||vk.com/id209032117$document
 ||globaxweb.isupova.tilda.ws^
+||globaxweb.pro^
 ||invekko.cc^
 ||t.me/invekko$document
 ||koinkeeper.icu^
@@ -472,6 +543,7 @@
 ||diskoteka-yulia.site^
 ||www.diskoteka-yulia.site^
 ||t.me/proektyulia$document
+||monitoring-yulia.space^
 ||aiperformance.business^
 ||capitalx.top^
 ||ccxtgy.com^
@@ -655,6 +727,7 @@
 ||abf-next.co^
 ||www.abf-next.co^
 ||abfnext.com^
+||abf-b.biz^
 ||apolloq.capital^
 ||t.me/apolloq_capital$document
 ||digilyct.com^
@@ -874,6 +947,8 @@
 ||castalt.cc^
 ||t.me/castalt$document
 ||t.me/castalt_support$document
+||castalt.org^
+||t.me/castalt_group$document
 ||dcprime.sbs^
 ||t.me/dcprime_sbs$document
 ||t.me/dcprime_support$document
@@ -1416,6 +1491,7 @@
 ||goldcitylive.com^
 ||fnkmoney.pro^
 ||fnkmoney.pw^
+||rusalki.site^
 ||s1.sid-money.biz^
 ||taxigame.site^
 ||thefarming.ru^
@@ -1472,6 +1548,7 @@
 ||account.tradesecuredfx.net^
 ||tradeuniontrust.com^
 ||term.tradeuniontrust.com^
+||tradeuniontrust.co^
 ||vk.com/club217118461$document
 ||catgame.biz^
 ||www.catgame.biz^
@@ -1547,6 +1624,9 @@
 ||www.edexpartner.com^
 ||webtrader.edexpartner.com^
 ||falcon.investments^
+||t.me/+leau1tj8hnm0nta1$document
+||falconinvest.ai^
+||www.falconinvest.ai^
 ||klm-trade.org^
 ||client.klm-trade.org^
 ||www.klm-trade.org^
@@ -1626,6 +1706,8 @@
 ||workspace2.sbinvest.pro^
 ||trd-in.com^
 ||platform.trd-in.com^
+||trd-in.co^
+||platform.trd-in.online^
 ||vk.com/public130595492$document
 ||jokervgorle.com^
 ||t.me/jokervgorlecom$document
@@ -1713,6 +1795,7 @@
 ||fxnotchtrading.com^
 ||account.fxnotchtrading.com^
 ||fxprofitscvm.com^
+||www.fxprofitscvm.com^
 ||gewinn.group^
 ||platform.gewinn.group^
 ||client.gewinn.group^
@@ -1824,6 +1907,7 @@
 ||finpro.business^
 ||trade.finpro.business^
 ||headsinvest.com^
+||headsinvests.com^
 ||leoinvest.pro^
 ||l-in.co^
 ||magicprofits.fun^
@@ -1861,6 +1945,7 @@
 ||webtrader.bf-solution.ltd^
 ||bf-solutions.ltd^
 ||webtrader.bf-solutions.ltd^
+||bfsolutions.ltd^
 ||bestfxearn.com^
 ||braintrades.one^
 ||t.me/BrainTrades_chat$document
@@ -1900,6 +1985,8 @@
 ||web.inex.ink^
 ||legendtrade.capital^
 ||t.me/legendtradecapital_ann$document
+||nicoina.com^
+||t.me/+ZM2PD5GoE2sxMGE1$document
 ||masl.company^
 ||www.masl.company^
 ||user.masl.tech^
@@ -1968,6 +2055,10 @@
 ||client.fx-kors.org^
 ||trade.fx-kors.org^
 ||trade2.fx-kors.org^
+||fxkors.space^
+||client.fxkors.space^
+||trade.fxkors.space^
+||trade2.fxkors.space^
 ||matrax-digital.ltd^
 ||www.matrax-digital.ltd^
 ||merjesgroup.com^
@@ -2039,6 +2130,7 @@
 ||vk.com/public190866691$document
 ||vk.com/id371291672$document
 ||vk.com/club135233335$document
+||tanita.taplink.ws^
 ||etradedstocks.com^
 ||trade.etradedstocks.com^
 ||wizzcapital.net^
@@ -2431,6 +2523,8 @@
 ||t.me/SSmAar75$document
 ||t-point.online^
 ||trade.t-point.online^
+||tpoint.pro^
+||trade.tpoint.pro^
 ||investpluss.ru^
 ||vk.com/club31989018$document
 ||xn----7sbej5bjgi7a.xn--80adxhks^
@@ -2854,6 +2948,8 @@
 ||p-box.co^
 ||vk.com/id207155769$document
 ||vk.com/club64571383$document
+||p-box.rest^
+||vk.com/id744453900$document
 ||rootitbde.co^
 ||trade.rootitbde.org^
 ||rootitbde.net^
@@ -3130,6 +3226,7 @@
 ||interaktivefinance.com^
 ||interfinancee.com^
 ||trade.interfinancee.com^
+||interaktivefinancee.com^
 ||jetshine.pro^
 ||t.me/jetshine_pro_ru$document
 ||t.me/+JKMZZlu4Fl05MWE6$document
@@ -3417,6 +3514,9 @@
 ||winltc.fun^
 ||www.winltc.fun^
 ||cfd.protocolwin.com^
+||protocolwin.com^
+||protocolwin.network^
+||www.protocolwin.network^
 ||vk.com/public218071212$document
 ||vk.com/public214688936$document
 ||vk.com/write-214688936$document
@@ -5802,6 +5902,7 @@
 ||www.trovo.top^
 ||t.me/trovo_top$document
 ||upsidestake.com^
+||www.upsidestake.com^
 ||paytrack.ru^
 ||finkorp.ru^
 ||crofr.net^
@@ -7578,6 +7679,7 @@
 ||trade.viefinancialsolutions.top^
 ||volexcapital.com^
 ||www.volexcapital.com^
+||vowaycap.com^
 ||vk.com/club143192996$document
 ||investd.ru^
 ||www.investd.ru^
@@ -7665,6 +7767,9 @@
 ||www.strifor.org^
 ||clients.strifor.org^
 ||www.strifor.bid^
+||t.me/strifor_eng$document
+||t.me/strifor_Bot$document
+||t.me/Strifor_copytrader_bot$document
 ||trading-inc.com^
 ||trading.trading-inc.com^
 ||vk.com/club33302765$document
@@ -7917,6 +8022,8 @@
 ||titancfd.com^
 ||titan-cfd.com^
 ||platform.titan-cfd.com^
+||titancfd-trade.com^
+||platform.titancfd-trade.com^
 ||vikup-zalog.ru^
 ||lombard-afina.ru^
 ||game-moneys.ru^
@@ -8457,6 +8564,7 @@
 ||sky-rise-group.com^
 ||platform.sky-rise-group.com^
 ||www.soltechx.com^
+||www.soltechx.network^
 ||tronprofit.cc^
 ||www.trxclub.net^
 ||worldeurofinance.com^
@@ -9771,6 +9879,7 @@
 ||fxterminals.com^
 ||fxtradeterminal.com^
 ||www.fxbulls.com^
+||fxbulls.com^
 ||greenfxtrading.com^
 ||lionshare.site^
 ||vk.com/lionlionshare$document
@@ -9896,6 +10005,7 @@
 ||cryptocoinsfund.net^
 ||ctmatador.com^
 ||platform.ctmatador-pros.com^
+||platform.ctmatador-pt.com^
 ||fin-partner.community^
 ||gtrust.me^
 ||invest-cash.ru^
@@ -10875,6 +10985,9 @@
 ||financegroup-spb.ru^
 ||battery-moneys.ru^
 ||bitzulx.com^
+||www.encorecapitals.com^
+||client.encorecapitals.com^
+||encorecapitals.com^
 ||financecash.biz^
 ||beyond-ss.com^
 ||my.beyond-ss.com^
@@ -10883,8 +10996,6 @@
 ||megaminers.biz^
 ||sinaracorp.com^
 ||cfd.sinaracorp.com^
-||www.encorecapitals.com^
-||client.encorecapitals.com^
 ||vk.com/avtolombardpts$document
 ||vk.com/dengi_ptz$document
 ||vk.com/tovarishfeo$document
@@ -11834,6 +11945,7 @@
 ||fundworldmoney.website^
 ||worldmoney.site^
 ||www.worldmoney.site^
+||fundworldmoney.space^
 ||hakuna-matata.top^
 ||hakuna-matata.click^
 ||alimedpress.com^
@@ -12441,6 +12553,7 @@
 ||solidcrypto-fx.com^
 ||account.solidcrypto-fx.com^
 ||starleeft.com^
+||starleeft.org/home/global/en/index2.html$document
 ||startup-invest.net^
 ||startmax.cc^
 ||stk-force.com^
@@ -12598,6 +12711,7 @@
 ||globalfutureinvest.org^
 ||www.global-groupmarkets.com^
 ||ru.kaarat.com^
+||kaarat.com^
 ||kitchenboss.online^
 ||kitchenboss.pw^
 ||lexatrade.com^
@@ -13171,6 +13285,7 @@
 ||synergycapital.top^
 ||my.tradings.tools^
 ||my.tradings.life^
+||my.tradings.one^
 ||uppertrade.world^
 ||www.x-globalfin.com^
 ||avamax.space^
@@ -13726,6 +13841,8 @@
 ||goldenmines.life^
 ||golden-mines.life^
 ||game.goldminers.space^
+||goldenmines.mobi^
+||golden-mines.live^
 ||alliance-trading.net^
 ||arumtrade.com^
 ||lobby.arumtrade.com^
@@ -13976,30 +14093,6 @@
 ||fxonus.com^
 ||panel.fxonus.com^
 ||mining-cash.online^
-||moneybirds.org^
-||money-birds.net^
-||profit-birds.cc^
-||money-birds.pro^
-||profit-birds.pro^
-||money-birds.live^
-||s1.profit-birds.pro^
-||s1.money-birds.live^
-||s1.profitbirds.pro^
-||s2.profitbirds.pro^
-||s3.profitbirds.pro^
-||moneybirds.club^
-||moneybirdss.org^
-||s4.profitbirds.pro^
-||s1.moneybirds.cc^
-||profitbirds.pro^
-||moneybirds.cc^
-||profitbirds.biz^
-||s1.moneybirds.live^
-||original.best-money-birds.biz^
-||birds-for-money.org^
-||super.birds-for-money.org^
-||profitbirds.live^
-||moneybirds.live^
 ||northprofit.cc^
 ||webtrader.northprofit.live^
 ||northprofit.co^
@@ -14034,6 +14127,31 @@
 ||xn--c1abbcq2ajhcuk7i.com^
 ||24lombard.ru^
 ||fin-reshenie.ru^
+||moneybirds.org^
+||money-birds.net^
+||profit-birds.cc^
+||money-birds.pro^
+||profit-birds.pro^
+||money-birds.live^
+||s1.profit-birds.pro^
+||s1.money-birds.live^
+||s1.profitbirds.pro^
+||s2.profitbirds.pro^
+||s3.profitbirds.pro^
+||moneybirds.club^
+||moneybirdss.org^
+||s4.profitbirds.pro^
+||s1.moneybirds.cc^
+||profitbirds.pro^
+||moneybirds.cc^
+||profitbirds.biz^
+||s1.moneybirds.live^
+||original.best-money-birds.biz^
+||birds-for-money.org^
+||super.birds-for-money.org^
+||profitbirds.live^
+||moneybirds.live^
+||birds-money.com^
 ||moneybirds.fun^
 ||moneybirds.co^
 ||moneybirds.in^
@@ -15890,6 +16008,8 @@
 ||potrade.ru^
 ||po4.capital^
 ||pocket-link.co^
+||pocketoption.app^
+||pocket-link1.co^
 ||pride-trade.com^
 ||client.pride-trade.com^
 ||www.pride-trade.com^
@@ -17117,6 +17237,7 @@
 ||xn----7sbfciitcaanm4a2dp9dzd.xn--p1ai^
 ||reallion.ru^
 ||vk.com/reallionspb$document
+||promo.real-lion.ru^
 ||skatt-fin.ru^
 ||vk.com/skattfin$document
 ||lombardnsk54.ru^
@@ -19488,6 +19609,7 @@
 ||web-coin.club^
 ||web-coin.live^
 ||web-coin.plus^
+||web-coin.vip^
 ||webtokenprofit.com^
 ||coin-galaxy.com^
 ||webtokenprofit.io^
