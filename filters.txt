@@ -67567,9 +67567,4 @@
 ||s1.money-owls.store^
 ||expresspts.ru^
 ||aldyn-cheeli.ru^
-||vk.com/public187651481$document! Title: Suspicious sites and web pages companies of Russia
-! Description: Filters of suspicious companies recognized by the Bank of Russia.
-! Expires: 1 day
-! Homepage: https://github.com/PrographerMan/cbr-ublock-rules
-! Last modified: 5/26/2025
-
+||vk.com/public187651481$document
